@@ -2,4 +2,4 @@
 Desenvolvimento de jogos com godot
 
 <br>
-<img src="https://postimg.org/image/dh5wjgbmb/" width="100" height="100">
+<img src="https://s13.postimg.org/3juvqe40n/game.jpg" width="700" height="400">
