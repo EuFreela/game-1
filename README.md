@@ -1,4 +1,4 @@
-# game-1
+# Game-1
 Desenvolvimento de jogos com <a href="https://godotengine.org/">Godot</a>
 
 <br>
@@ -19,7 +19,8 @@ As próximas versões deste game serão as modificações necessárias até cheg
 </ol>
 <br>
 <p> O executável Godot ja esta nos arquivos (portátil). Basta executá-lo e abrir o arquivo game-1, clicar em play. </p>
-<p></p>
+<p> Clique com o mouse na tela para que o passaro suba enquanto cai pela gravidade.</p>
+<p> O diretório Felpudo Fly, corresponde aos elementos gráficos e sonoros utilizados no jogo game-1</p>
 
 
 <br><br>
