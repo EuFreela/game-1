@@ -24,4 +24,4 @@ As próximas versões deste game serão as modificações necessárias até cheg
 
 
 <br><br>
-<img src="https://s13.postimg.org/3juvqe40n/game.jpg" width="700" height="400">
+<img src="https://s13.postimg.cc/3juvqe40n/game.jpg" width="700" height="400">
